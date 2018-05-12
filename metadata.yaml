@@ -1,0 +1,41 @@
+_repo: -ywila--Powiastka-z-Dziej-w-Litewskich_28168
+_version: 0.1.0
+alternative_title: 'Zywila: Légende Lithuanienne'
+contributor:
+  translator:
+    agent_name: Mickiewicz, Ladislas
+    aliases:
+    - Mickiewicz, Władysław
+    - Mickiewicz, Wladyslaw
+    birthdate: 1838
+    deathdate: 1926
+    gutenberg_agent_id: '33175'
+    url: http://www.gutenberg.org/2009/agents/33175
+covers:
+- cover_type: archival
+  image_path: 28168-h/images/cover_l.jpg
+creator:
+  author:
+    agent_name: Mickiewicz, Adam
+    birthdate: 1798
+    deathdate: 1855
+    gutenberg_agent_id: '32429'
+    url: http://www.gutenberg.org/2009/agents/32429
+    wikipedia: http://en.wikipedia.org/wiki/Adam_Mickiewicz
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2009-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28168'
+language:
+- fr
+- pl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Fiction'
+title: 'Żywila: Powiastka z Dziejów Litewskich'
+url: http://www.gutenberg.org/ebooks/28168

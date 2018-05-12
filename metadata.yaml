@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32429
     wikipedia: http://en.wikipedia.org/wiki/Adam_Mickiewicz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28168#-ywila--Powiastka-z-Dziej-w-Litewskich
 gutenberg_bookshelf: FR Nouvelles
 gutenberg_issued: '2009-02-24'
 gutenberg_type: Text
